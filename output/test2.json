@@ -1,0 +1,7 @@
+// POST a new dummy post and write response to JSON file:
+{
+    "title": "Treesha Rocks!",
+    "body": "It really really rocks.",
+    "userId": 1,
+    "id": 101
+}
